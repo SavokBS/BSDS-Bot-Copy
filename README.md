@@ -1,2 +1,2 @@
 # BSDS-Bot-Copy
-zh
+Discord bot that helps find Brawl Stars commands and packets.
